@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Evan Beattie
+description: My portfolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
